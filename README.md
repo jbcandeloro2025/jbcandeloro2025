@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jbcandeloro2025E&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbcandeloro2025&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 -----
@@ -84,7 +84,7 @@ const jefferson = {
 -----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6366f1&style=flat-square&label=Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=jbcandeloro2025&color=6366f1&style=flat-square&label=Visitantes" />
 </p>
 
 <p align="center">
