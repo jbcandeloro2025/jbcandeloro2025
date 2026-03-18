@@ -4,7 +4,7 @@
 
 **Front-End Dev em formação · DevClub · Foz do Iguaçu, BR**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=construindo+meu+caminho+no+dev,+um+commit+por+vez;React+%7C+Next.js+%7C+JavaScript;consistência+%3E+perfeição)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=construindo+meu+caminho+no+dev,+um+commit+por+vez;React+%7C+Next.js+%7C+JavaScript;consistência+%3E+perfeição)](https://git.io/typing-svg)
 
 </div>
 
